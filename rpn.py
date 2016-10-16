@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def calculate(myarg):
-	pass
+	print(myarg)
 
 def main():
 	while True:
