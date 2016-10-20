@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-#Comment
-
 import operator
 
 operators = {
